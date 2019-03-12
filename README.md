@@ -13,3 +13,8 @@ The following devDependencies have been added:
   }
 }
 ```
+
+- Jest global setup is done in `src/setupTests.js`
+- The Component being tested is in `src/Temperature.js`
+- The test file is located at `src/Temperature.test.js`
+- Tests are run with command `yarn run test`
