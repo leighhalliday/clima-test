@@ -7,6 +7,13 @@
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
   },
+  "devDependencies": {
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.10.0",
+    "enzyme-to-json": "^3.3.5",
+    "sinon": "^7.2.7",
+    "react-test-renderer": "^16.8.4"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
